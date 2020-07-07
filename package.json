@@ -1,0 +1,17 @@
+{
+  "name": "AdlerSuite-BulkPosts-API",
+  "description": "Bulk posts.",
+  "version": "1.0.0",
+  "author": "Cristian Gaviria <cristian@samxlabs.com>",
+  "license": "ISC",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "excel-stream": "^1.1.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28",
+    "request": "^2.88.2",
+    "sharp": "^0.25.4",
+    "xlsx": "^0.15.6"
+  }
+}
